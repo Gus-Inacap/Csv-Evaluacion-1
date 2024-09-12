@@ -220,5 +220,5 @@ El perceptrón simple es capaz de realizar una clasificación binaria con una se
 
 ## Bibliografia 
 
--Cortes, C., & Vapnik, V. (1995). Support-vector networks. *Machine Learning*, 20(3).
--Breiman, L. (2001). Random forests. Machine Learning, 45(1).
+- Cortes, C., & Vapnik, V. (1995). Support-vector networks. *Machine Learning*, 20(3).
+- Breiman, L. (2001). Random forests. Machine Learning, 45(1).
